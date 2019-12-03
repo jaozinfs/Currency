@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- login text size -->
+    <dimen name="txt_h4">24sp</dimen>
+    
+</resources>

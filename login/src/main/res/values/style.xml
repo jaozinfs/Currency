@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextStyle">
+        <item name="android:fontFamily">@font/robot</item>
+        <item name="android:lineSpacingMultiplier">0.33</item>
+        <item name="android:textColor">@color/color_black</item>
+        <item name="android:textSize">@dimen/txt_h4</item>
+    </style>
+
+</resources>

@@ -1,0 +1,2 @@
+include ':app', ':login', ':router', ':persistence', ':repository', ':domain', ':stuff', ':stuff_lib', ':common', ':home', ':entrace'
+rootProject.name='CurrencyTest'
